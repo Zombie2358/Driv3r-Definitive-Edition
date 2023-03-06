@@ -1,0 +1,19 @@
+//Driv3r: Definitive Edition\\
+
+Version: 1.0.0.5
+State of Development: Alpha
+Developers: Zombie2358, burritoo, Fireboyd
+Icons: Gector Fillion (Freak)
+
+System Requirements for RTX Addon:
+- 2.4GHz Quad CPU
+- 4GB VRAM/GPU
+- 8GB RAM
+
+Important Note:
+Just to let you know you have to install Driv3r's full game and then apply this mod. This mod cannot work without the main game.
+
+DRIV3R Download Link:
+https://archive.org/download/driv-3-r_202107/DRIV3R.iso
+
+//Driv3r: Definitive Edition\\
